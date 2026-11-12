@@ -1,0 +1,5 @@
+---
+tags:
+  - "#Player"
+Hometown: "[[Deepsteel]]"
+---
