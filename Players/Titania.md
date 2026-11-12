@@ -3,6 +3,9 @@ tags:
   - "#Player"
 aliases:
   - Protector of Nightvale
+Hometown: "[[Nightvale]]"
+Ancestry: Heartborne Elf
+Class: Beastbound Ranger
 ---
 Titania, known to almost everyone as Tia, is the protector of [[Nightvale]]. She was born in the small town, the daughter of [[Wellia]] and [[Viryx]], and grew up surrounded by a large, loving, and unconventional family. Though she presents herself with humor and a casual, storytelling manner, her past clearly holds pain that she is not yet ready to speak about openly.
 

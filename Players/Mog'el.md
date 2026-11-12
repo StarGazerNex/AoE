@@ -2,6 +2,8 @@
 tags:
   - "#Player"
 Hometown: "[[Smoked Plains]]"
+Ancestry: Warborne Ribbet
+Class: Juggernaut Brawler
 ---
 Mog’el is a young Ribbet and a survivor of the [[Ashen-Paw]] clan’s civil war. He was raised amid violence, displacement, and the slow collapse of the traditions that had defined his people for generations. Unlike [[Harald]], whose departure from [[Lux Lunae]] was driven by curiosity and a desire to uncover hidden truths, Mog’el’s journey began with loss. His home was destroyed not by accident, but by deliberate outside interference.
 

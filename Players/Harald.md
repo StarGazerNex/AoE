@@ -5,6 +5,8 @@ aliases:
   - The Descended Lunarian
 Hometown: "[[Lux Lunae]]"
 Age: "22"
+Ancestry: Loreborne Skykin
+Class: Moon Witch
 ---
 Harald is a twenty-two-year-old Skykin born in the floating city of Lux Lunae. He is the first son of [[Shekthar]] (50) and [[Mesli]] (45), and has a younger sister named [[Kaylie]] (19). His family occupies an unusual position within the city: his father belongs to [[Lacus Somniorum]], while his mother belongs to [[Lacus Timoris]]. Because of this, Harald grew up surrounded by two very different but equally influential ways of understanding the world.
 

@@ -4,45 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "549929d2ce387a08",
-        "type": "tabs",
-        "dimension": 42.18241042345277,
-        "children": [
-          {
-            "id": "b93ddf71cb7799f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Lux Lunae.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lux Lunae"
-            }
-          },
-          {
-            "id": "c896a6fa071c1594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Frame/Distinctions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Distinctions"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "2021bc0904934040",
         "type": "tabs",
-        "dimension": 57.817589576547235,
         "children": [
           {
             "id": "c346e96ea98c5201",
@@ -57,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Titania"
             }
+          },
+          {
+            "id": "f7bab9e69d3c931f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,14 +198,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "c346e96ea98c5201",
+  "active": "f7bab9e69d3c931f",
   "lastOpenFiles": [
+    "Players/Titania.md",
+    "Players/Mog'el.md",
+    "Players/Luster.md",
+    "Players/Harald.md",
+    "Players/CIX.md",
+    "Locations/Lux Lunae.md",
     "Campaign Frame/Distinctions.md",
     "Factions/Lacus Veris.md",
-    "Locations/Lux Lunae.md",
-    "Players/Titania.md",
     "Factions/Lacus Solitudinis.md",
-    "Players/Harald.md",
     "Kiseru.md",
     "Factions/Gleam-drinkers.md",
     "Factions/Lacus Timoris.md",
@@ -241,15 +218,12 @@
     "Factions/Ashen-Paw.md",
     "Locations/Deepsteel.md",
     "Locations/The Hollow.md",
-    "Players/Mog'el.md",
     "Locations/Smoked Plains.md",
     "Campaign Frame/Overview.md",
     "Campaign Frame/Convergence.md",
     "Campaign Frame/Gleam.md",
     "Campaign Frame/Tidal Lock.md",
     "Campaign Frame/Wellcities.md",
-    "Players/Luster.md",
-    "Players/CIX.md",
     "NPCs/Pipin.md",
     "NPCs/Nightvale/Wellia.md",
     "NPCs/Lux Lunae",
