@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Titania.md",
+                "file": "Players/Nymestria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Titania"
+              "title": "Nymestria"
             }
           },
           {
-            "id": "f7bab9e69d3c931f",
+            "id": "9b3a307a3e3540e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Players/Nymestria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +128,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "Players/Nymestria.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
@@ -179,8 +180,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,34 +198,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "f7bab9e69d3c931f",
+  "active": "c346e96ea98c5201",
   "lastOpenFiles": [
     "Players/Titania.md",
+    "Players/Nymestria.md",
     "Players/Mog'el.md",
-    "Players/Luster.md",
+    "Campaign Frame/Gleam.md",
+    "Campaign Frame/Convergence.md",
+    "Campaign Frame/Distinctions.md",
     "Players/Harald.md",
+    "Lucens Liquidus.md",
+    "Factions/Lacus Solitudinis.md",
+    "Factions/Lacus Somniorum.md",
+    "Factions/Gleam-drinkers.md",
+    "Factions/Ashen-Paw.md",
+    "Players/Luster.md",
     "Players/CIX.md",
     "Locations/Lux Lunae.md",
-    "Campaign Frame/Distinctions.md",
     "Factions/Lacus Veris.md",
-    "Factions/Lacus Solitudinis.md",
     "Kiseru.md",
-    "Factions/Gleam-drinkers.md",
     "Factions/Lacus Timoris.md",
-    "Lucens Liquidus.md",
-    "Factions/Lacus Somniorum.md",
     "Factions/Smoke-Bound.md",
-    "Factions/Ashen-Paw.md",
     "Locations/Deepsteel.md",
     "Locations/The Hollow.md",
     "Locations/Smoked Plains.md",
     "Campaign Frame/Overview.md",
-    "Campaign Frame/Convergence.md",
-    "Campaign Frame/Gleam.md",
     "Campaign Frame/Tidal Lock.md",
     "Campaign Frame/Wellcities.md",
     "NPCs/Pipin.md",
-    "NPCs/Nightvale/Wellia.md",
     "NPCs/Lux Lunae",
     "NPCs/Nightvale",
     "NPCs",
