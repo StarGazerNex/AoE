@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Nymestria.md",
+                "file": "Players/Harald.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nymestria"
+              "title": "Harald"
             }
           },
           {
@@ -200,8 +200,12 @@
   },
   "active": "c346e96ea98c5201",
   "lastOpenFiles": [
-    "Players/Titania.md",
     "Players/Nymestria.md",
+    "Players/Luster.md",
+    "Dione Steels.md",
+    "Madeline Lomazin.md",
+    "Roger Lomazin.md",
+    "Players/Titania.md",
     "Players/Mog'el.md",
     "Campaign Frame/Gleam.md",
     "Campaign Frame/Convergence.md",
@@ -212,7 +216,6 @@
     "Factions/Lacus Somniorum.md",
     "Factions/Gleam-drinkers.md",
     "Factions/Ashen-Paw.md",
-    "Players/Luster.md",
     "Players/CIX.md",
     "Locations/Lux Lunae.md",
     "Factions/Lacus Veris.md",
@@ -223,9 +226,6 @@
     "Locations/The Hollow.md",
     "Locations/Smoked Plains.md",
     "Campaign Frame/Overview.md",
-    "Campaign Frame/Tidal Lock.md",
-    "Campaign Frame/Wellcities.md",
-    "NPCs/Pipin.md",
     "NPCs/Lux Lunae",
     "NPCs/Nightvale",
     "NPCs",

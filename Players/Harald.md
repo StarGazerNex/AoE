@@ -27,3 +27,8 @@ When Harald opened it, the Somniorum magic his father had secretly taught him at
 At the end of the vision, Harald saw the hands of the Moonarch Superior looming over these people like those of a giant puppeteer. This experience convinced him that something was deeply wrong within Lux Lunae. Rather than trusting the Coven to explain it, he decided to leave the city in secret and seek answers from a less closed source.
 
 Harald’s central conflict is therefore not simply a desire for adventure. He is torn between his loyalty to his family, his faction, and the city that raised him, and his growing fear that Lux Lunae itself may be built upon a terrible secret. His departure is an act of curiosity, defiance, and self-preservation.
+
+
+two friends that know Harald since Novilunium (Elementary) times:
+- Visindi (22 years old), acted like his more impulsive twin brother, and was usually the adventurer and troublemaker that didn't really care about breaking the Coven's rules if it meant they would have a good story to tell afterwards. Was always the one that took rigidity out of Harald's life making him think more for himself and that questioning the Coven's rules and teachings or anybody's for that matter wouldn't be the worst idea, and sometimes lead to new and better ways/ideas. He chose Lacus Timoris.
+- Sunna (23 years old), the arcane prodigy having visions and communing with spirits since she was but a baby. She is his childhood platonic love that was never meant to be because she always remembered him as the frail boy that she (taller than him back then and probably still fighting better than him to this day) had to defend from bullies when they were 6 years old and first met. She chose Lacus Somniorum.
