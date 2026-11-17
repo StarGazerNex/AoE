@@ -4,6 +4,7 @@ tags:
 aliases:
   - Ahri
 Hometown: "[[Ardentia]]"
+Age: "23"
 Ancestry: Highborn Human/Clank
 Class: Troubadour Bard
 ---
