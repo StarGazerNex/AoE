@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ambriel.md",
+                "file": "NPCs/Ambriel.md",
                 "mode": "source",
                 "source": false
               },
@@ -23,6 +23,20 @@
           },
           {
             "id": "53e03436cf1c90d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Visindi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visindi"
+            }
+          },
+          {
+            "id": "bdce0efe33bbaafc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -110,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/Visindi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NPCs/Visindi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -198,22 +214,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "53e03436cf1c90d1",
+  "active": "b37519e77ea8f825",
   "lastOpenFiles": [
-    "Ambriel.md",
-    "Calium Arena.md",
-    "Dahlia.md",
-    "Dione Steels.md",
-    "Glow Gleam Records.md",
-    "Jophie.md",
-    "Kiseru.md",
-    "Lucens Liquidus.md",
-    "Madeline Lomazin.md",
-    "Roger Lomazin.md",
-    "Sunna.md",
-    "The Silver Lake.md",
-    "Visindi.md",
-    "Zaziel.md",
+    "NPCs/Madeline Lomazin.md",
+    "NPCs/Visindi.md",
+    "Locations/The Silver Lake.md",
+    "NPCs/Sunna.md",
+    "Locations/Calium Arena.md",
+    "Items",
+    "Factions/Glow Gleam Records.md",
+    "NPCs/Roger Lomazin.md",
+    "Locations/Ardentia.md",
+    "NPCs/Ambriel.md",
+    "NPCs/Dahlia.md",
+    "NPCs/Dione Steels.md",
+    "NPCs/Jophie.md",
+    "Items/Kiseru.md",
+    "Items/Lucens Liquidus.md",
+    "NPCs/Zaziel.md",
     "Players/Nymestria.md",
     "Players/CIX.md",
     "Campaign Frame/Wellcities.md",
@@ -224,8 +242,6 @@
     "Players/Luster.md",
     "Players/Titania.md",
     "Players/Mog'el.md",
-    "Campaign Frame/Gleam.md",
-    "Campaign Frame/Distinctions.md",
     "NPCs/Lux Lunae",
     "NPCs/Nightvale",
     "NPCs",
