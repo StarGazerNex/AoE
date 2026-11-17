@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Harald.md",
+                "file": "Players/Nymestria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harald"
+              "title": "Nymestria"
             }
           },
           {
-            "id": "9b3a307a3e3540e8",
+            "id": "7416c0554f1d8314",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +199,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "c346e96ea98c5201",
+  "active": "7416c0554f1d8314",
   "lastOpenFiles": [
-    "Players/Nymestria.md",
     "Players/Luster.md",
+    "Players/Nymestria.md",
+    "Zaziel.md",
+    "Players/CIX.md",
+    "Players/Harald.md",
+    "Glow Gleam Records.md",
+    "Ambriel.md",
+    "Dahlia.md",
+    "Calium Arena.md",
     "Dione Steels.md",
     "Madeline Lomazin.md",
     "Roger Lomazin.md",
@@ -210,22 +218,15 @@
     "Campaign Frame/Gleam.md",
     "Campaign Frame/Convergence.md",
     "Campaign Frame/Distinctions.md",
-    "Players/Harald.md",
     "Lucens Liquidus.md",
     "Factions/Lacus Solitudinis.md",
     "Factions/Lacus Somniorum.md",
     "Factions/Gleam-drinkers.md",
     "Factions/Ashen-Paw.md",
-    "Players/CIX.md",
     "Locations/Lux Lunae.md",
     "Factions/Lacus Veris.md",
     "Kiseru.md",
     "Factions/Lacus Timoris.md",
-    "Factions/Smoke-Bound.md",
-    "Locations/Deepsteel.md",
-    "Locations/The Hollow.md",
-    "Locations/Smoked Plains.md",
-    "Campaign Frame/Overview.md",
     "NPCs/Lux Lunae",
     "NPCs/Nightvale",
     "NPCs",

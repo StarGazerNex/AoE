@@ -32,20 +32,20 @@
       "query": "#Faction",
       "color": {
         "a": 1,
-        "rgb": 13087365
+        "rgb": 15905580
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": 3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.500487804878049,
+  "repelStrength": 10.259512195122,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 151,
   "scale": 0.6126649874133031,
   "close": true
 }
