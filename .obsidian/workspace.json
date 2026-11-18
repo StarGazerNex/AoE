@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6be244d52b969321",
+            "id": "a37e168b11759fa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ambriel.md",
+                "file": "Players/Characterbook/Titania Characterbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ambriel"
-            }
-          },
-          {
-            "id": "53e03436cf1c90d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Visindi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Visindi"
-            }
-          },
-          {
-            "id": "bdce0efe33bbaafc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Titania Characterbook"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Veris",
+                "query": "sweets",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Visindi.md",
+                "file": "Players/Harald.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,9 +118,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Visindi.md",
+                "file": "Players/Harald.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
@@ -195,8 +170,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,40 +188,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "b37519e77ea8f825",
+  "active": "a37e168b11759fa7",
   "lastOpenFiles": [
-    "NPCs/Madeline Lomazin.md",
-    "NPCs/Visindi.md",
-    "Locations/The Silver Lake.md",
-    "NPCs/Sunna.md",
-    "Locations/Calium Arena.md",
-    "Items",
-    "Factions/Glow Gleam Records.md",
-    "NPCs/Roger Lomazin.md",
-    "Locations/Ardentia.md",
-    "NPCs/Ambriel.md",
-    "NPCs/Dahlia.md",
-    "NPCs/Dione Steels.md",
-    "NPCs/Jophie.md",
-    "Items/Kiseru.md",
-    "Items/Lucens Liquidus.md",
-    "NPCs/Zaziel.md",
-    "Players/Nymestria.md",
-    "Players/CIX.md",
-    "Campaign Frame/Wellcities.md",
-    "Campaign Frame/Convergence.md",
+    "Players/Characterbook/Nymestria Characterbook.md",
+    "Players/Characterbook/Titania Characterbook.md",
+    "Players/Characterbook/Mog'el Characterbook.md",
+    "Players/Characterbook/Luster Characterbook.md",
+    "Players/Characterbook/CIX Characterbook.md",
+    "Players/Characterbook/Harald Characterbook.md",
     "Players/Harald.md",
-    "Campaign Frame/Tidal Lock.md",
-    "Factions/Lacus Veris.md",
-    "Players/Luster.md",
-    "Players/Titania.md",
-    "Players/Mog'el.md",
-    "NPCs/Lux Lunae",
-    "NPCs/Nightvale",
-    "NPCs",
-    "Factions",
-    "Locations",
-    "Players",
-    "Campaign Frame"
+    "Players/Characterbook",
+    "Untitled",
+    "vault/00 Start Here.md",
+    "vault/Campaign Frame/Geography.md",
+    "vault/Items/Salt Seals.md",
+    "vault/Locations/Rimhall.md",
+    "vault/Locations/Evenfall.md",
+    "vault/Locations/The Evenwood.md",
+    "NPCs/Nightvale/Allium.md",
+    "vault/Story/Act I - Surface.md",
+    "vault/Locations/Nightvale.md",
+    "Locations/The Hollow.md",
+    "vault/NPCs/Lux Lunae/Oriel Vantasse.md",
+    "vault/Factions/Quiet Lamp.md",
+    "vault/Campaign Frame/Timeline.md",
+    "vault/Campaign Frame/The Vael.md",
+    "vault/Campaign Frame/The Closing.md",
+    "vault/Campaign Frame/Gleam Clock.md",
+    "vault/NPCs/Lux Lunae/Moonarch Superior.md",
+    "vault/NPCs/Lux Lunae/Mesli.md",
+    "vault/NPCs/Lux Lunae/Kaylie.md",
+    "vault/Story",
+    "vault/NPCs/Smoked Plains",
+    "vault/NPCs/Nightvale",
+    "vault/NPCs/Lux Lunae",
+    "vault/NPCs/Hesperion",
+    "vault/NPCs/Dry",
+    "vault/NPCs/Deepsteel",
+    "vault/NPCs/Ardentia"
   ]
 }
