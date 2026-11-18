@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 15905580
       }
+    },
+    {
+      "query": "#Characterbook",
+      "color": {
+        "a": 1,
+        "rgb": 7405519
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 10.259512195122,
   "linkStrength": 1,
   "linkDistance": 151,
-  "scale": 0.5359795996225953,
+  "scale": 0.4174059641172219,
   "close": true
 }

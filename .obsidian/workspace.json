@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Characterbook/Titania Characterbook.md",
+                "file": "NPCs/Pipin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Titania Characterbook"
+              "title": "Pipin"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ddcf079856ced6a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffd6c28a65433bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Characterbook/Harald Characterbook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Harald Characterbook"
             }
           }
         ]
@@ -99,14 +119,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Harald.md",
+                "file": "Players/Characterbook/Harald Characterbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -118,9 +138,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Harald.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Players/Characterbook/Harald Characterbook.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
@@ -170,7 +190,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,14 +209,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "a37e168b11759fa7",
+  "active": "ffd6c28a65433bf4",
   "lastOpenFiles": [
-    "Players/Characterbook/Nymestria Characterbook.md",
-    "Players/Characterbook/Titania Characterbook.md",
     "Players/Characterbook/Mog'el Characterbook.md",
-    "Players/Characterbook/Luster Characterbook.md",
+    "Players/Characterbook/Titania Characterbook.md",
+    "NPCs/Pipin.md",
+    "vault/NPCs/Pipin.md",
+    "NPCs/Nightvale/Wellia.md",
+    "vault/NPCs/Nightvale/Wellia.md",
+    "NPCs/Nightvale/Allium.md",
+    "vault/NPCs/Nightvale/Allium.md",
+    "Locations/Nightvale.md",
+    "vault/Locations/Nightvale.md",
     "Players/Characterbook/CIX Characterbook.md",
     "Players/Characterbook/Harald Characterbook.md",
+    "Players/Characterbook/Luster Characterbook.md",
+    "Players/Characterbook/Nymestria Characterbook.md",
+    "Players/Titania.md",
     "Players/Harald.md",
     "Players/Characterbook",
     "Untitled",
@@ -205,19 +235,10 @@
     "vault/Locations/Rimhall.md",
     "vault/Locations/Evenfall.md",
     "vault/Locations/The Evenwood.md",
-    "NPCs/Nightvale/Allium.md",
     "vault/Story/Act I - Surface.md",
-    "vault/Locations/Nightvale.md",
     "Locations/The Hollow.md",
     "vault/NPCs/Lux Lunae/Oriel Vantasse.md",
     "vault/Factions/Quiet Lamp.md",
-    "vault/Campaign Frame/Timeline.md",
-    "vault/Campaign Frame/The Vael.md",
-    "vault/Campaign Frame/The Closing.md",
-    "vault/Campaign Frame/Gleam Clock.md",
-    "vault/NPCs/Lux Lunae/Moonarch Superior.md",
-    "vault/NPCs/Lux Lunae/Mesli.md",
-    "vault/NPCs/Lux Lunae/Kaylie.md",
     "vault/Story",
     "vault/NPCs/Smoked Plains",
     "vault/NPCs/Nightvale",

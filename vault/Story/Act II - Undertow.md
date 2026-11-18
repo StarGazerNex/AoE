@@ -19,7 +19,7 @@ Play in any order. Each road gives a Key for [[The Closing]] and ticks the Clock
 | **The Silver Road** | [[Luster]] and [[CIX]] | [[Deepsteel]], [[The Silver Lake]], [[Ardentia]], [[Brinewake]] | *The Voice* (Tide-song) and *The Anchor* (the Deep Gate) | [[Jophie]], [[Dione Steels]], [[Merrow Vale]], [[Pell]] |
 
 ## Recommended Order
-1. **The Silver Road** first if the party followed Luster and CIX to Nightvale.
+1. **The Silver Road** first if the party followed Luster and CIX to [[Nightvale]].
 2. **The Hearth Road** next, to give Mog'el room for grief.
 3. **The Watcher's Road** and **The Hollow Road** in the middle.
 4. **The Sky Road** last. It is the most dangerous and the most personal for Harald.
@@ -37,7 +37,7 @@ After the third road: the [[Moonarch Superior]] speaks to the entire continent t
 
 ## Low Point: High Water
 - [[Lux Lunae]] begins its Return and turns toward [[The Hollow]].
-- Allium arrives in Nightvale. The Seep wakes and takes someone the party loves (default: [[Figment]], who is not seen again until Act III).
+- Allium arrives in [[Nightvale]]. The Seep wakes and takes someone the party loves (default: [[Figment]], who is not seen again until Act III).
 - [[Jophie]] is taken or dies protecting the lab.
 - [[Kaylie]]'s Tidal Lock is scheduled for the day the sky city arrives.
 - The Coven recalls every citizen to the city. [[Sunna]] is silent.

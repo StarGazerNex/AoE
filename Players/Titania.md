@@ -7,26 +7,44 @@ Hometown: "[[Nightvale]]"
 Ancestry: Heartborne Elf
 Class: Beastbound Ranger
 ---
-Titania, known to almost everyone as Tia, is the protector of [[Nightvale]]. She was born in the small town, the daughter of [[Wellia]] and [[Viryx]], and grew up surrounded by a large, loving, and unconventional family. Though she presents herself with humor and a casual, storytelling manner, her past clearly holds pain that she is not yet ready to speak about openly.
+Titania, known to almost everyone as Tia, is the protector of [[Nightvale]]. She was born in the small town, the daughter of [[Wellia]] and [[Viryx]], and grew up surrounded by a large, loving, and unconventional family. She tells her story with humor and a casual, storytelling manner, and she steers away from the parts that hurt.
 
-Tia is the youngest of six siblings: [[Nora]], [[Allium]], [[Figment]], [[Landur]], [[Dwight]], and herself. Most of her siblings were adopted, while Tia and [[Allium]] were the only biological children of [[Wellia]] and [[Viryx]]. Despite their different origins, the family was close, caring, and deeply connected to the community around them. Tia describes her childhood as one of love and harmony, shaped by the warmth of her parents and siblings.
+## [[Nightvale]] and the Gleam
+Growing up, Tia heard only bad stories about [[Gleam]]: that it is toxic, that you must never touch it, that it will kill you. Nightvale believed them. All around, communities that had nothing were turning into cities, and Nightvale stayed as it was. Some townsfolk said people who used Gleam on their skin did marvelous things, living past a hundred and looking sixty. Everyone agreed that consuming it directly was dangerous, and possibly lethal.
 
-Her parents are known throughout [[Nightvale]] as its carpenters. Her mother, [[Wellia]], creates small wooden sculptures, while her father, [[Viryx]], works with furniture. Their work reflects the practical, handmade character of [[Nightvale]]: a town that values craft, community, and the ability to build a life with one’s own hands.
+## Family
+Tia is the youngest of six siblings: [[Nora]], [[Allium]], [[Figment]], [[Landur]], [[Dwight]], and herself. Most of her siblings were adopted, while Tia and [[Allium]] were the only biological children of [[Wellia]] and [[Viryx]]. The family was close and caring, and Tia describes her childhood as one of love and harmony.
 
-Tia’s family is central to her identity. [[Nora]], a small goblin with pale blue skin and large eyes, has a gift for cooking. Tia remembers being very young and watching [[Nora]] work in the kitchen, laughing and smiling as pots and pans boiled around her. Even after [[Viryx]] built [[Nora]] a stool so she could reach the stove, Tia tried to climb up beside her. Rather than pushing her away, [[Nora]] lifted Tia into her lap and explained everything she was doing. That memory remains one of Tia’s most cherished.
+Her parents are known throughout [[Nightvale]] as its carpenters. [[Wellia]] makes small wooden sculptures and [[Viryx]] makes furniture. They are now retired and looking forward to being grandparents.
 
-[[Figment]] and [[Landur]] are human twins, found by [[Wellia]] as infants in a basket near the edge of the forest. A note beside them read, “Take care of them, please,” and [[Wellia]], unable to turn them away, brought them home. Although they are twins, they look very different. [[Figment]] has pale skin, a freckled face, light brown hair, and green eyes. [[Landur]] has sun-kissed skin, black hair with a blue hue, and bright blue eyes.
+[[Nora]], a small goblin with pale blue skin and large eyes, has a gift for cooking. Tia remembers being three or four and trying to climb the stool [[Viryx]] had built so Nora could reach the stove. Nora lifted her into her lap and explained everything she was doing. It is one of Tia's favorite memories. Nora is now married, and Tia is going to be an aunt.
 
-The twins became known as the town jokesters. They are mischievous, but never cruel; Tia says they would not hurt a fly. Though she loves them, she is not as close to them as she once was. Her hesitation suggests that something happened involving them, or involving the family more broadly, that she is not ready to discuss.
+[[Figment]] and [[Landur]] are human twins, found by [[Wellia]] as infants in a basket near the edge of the forest with a note: "Take care of them, please." [[Figment]] has pale skin, a freckled face, light brown hair, and green eyes. [[Landur]] has sun-kissed skin, black hair with a blue hue, and bright blue eyes. They are the town jokesters, mischievous but never cruel. Tia says she is not as close to them as she was with... and then stops, saying it is a story for later. The twins have been traveling throughout the continent for a while now.
 
-[[Dwight]] is the sibling closest to Tia in age. He is a large, cuddly faun with beautiful horns and goat-like features. He is deeply compassionate and never refuses someone in need. Tia remembers witnessing him save a person’s life when she was around five or six years old. A silver carriage with no horse—later identified as a car—struck someone in front of the family. While everyone else froze, [[Dwight]] ran immediately to help. He knelt beside the injured person and provided the care they needed.
+[[Dwight]], the sibling closest to Tia in age, is a big, cuddly faun with beautiful horns. When she was five or six, a silver carriage with no horse (she later learned it was a car) hit a person in front of her family. Everyone froze except Dwight, who ran to the person and made sure they got the care they needed. He grew into one of Nightvale's most trusted leaders, one of its chiefs in command, in charge of health and safety.
 
-That moment helped establish [[Dwight]] as one of [[Nightvale]]’s most trusted leaders. He eventually became responsible for the town’s healthcare system, turning his instinct to help others into a lifelong vocation. His compassion and reliability make him a stabilizing presence in both the family and the community.
+## Allium
+[[Allium]] was Tia's biological brother: an elf with green curly hair, pointed ears, freckled skin especially around the nose, and hazelnut eyes. Tia looks remarkably like him, except for her eyes, which are closer to honey. Her father often looks at her and sighs. He called her "greenbean".
 
-[[Allium]] was Tia’s biological brother and perhaps the person who most shaped her path. He was an elf with green curly hair, pointed ears, freckled skin, and hazelnut eyes. Tia looks remarkably like him, except for her eyes, which are closer to a honey color. Her father often looks at her and sighs, apparently seeing much of [[Allium]] in her.
+Allium was a ranger and Nightvale's protector. At night he would sit on the family's roof and watch the forest. When Tia was ten or eleven he gave her [[Pipin]], a baby brown hawk, telling her to be careful not to scare it. After that she went along on his rangering tasks, and he taught her to train Pipin as a hunting bird.
 
-[[Allium]] was a ranger and the protector of [[Nightvale]]. At night, he would climb onto the roof of the family home and watch the forest, ready to respond to any danger that approached the town. Tia followed in his footsteps, becoming a protector herself. Her current role in [[Nightvale]] is therefore not simply a job or title; it is a continuation of [[Allium]]’s legacy.
+On one of those trips, Tia first saw Gleam. Walking through the forest, she felt warmth on her skin and a glare in her eye, and Allium led her through the bushes to a reflective silver pool as big as a lake that looked as if it wanted to keep growing. He told her it consumes people, sometimes from within. It had started as a small hole with Gleam flowing out, and it was bigger every year. He told her not to touch it, and that creatures in the forest had consumed it and become different. Those creatures were what the two of them protected Nightvale from.
 
-One of Tia’s most important memories involves the day [[Allium]] gave her [[Pipin]]. She was sitting beside her mother in the garden, helping care for the plants, when she heard footsteps approaching. [[Allium]] appeared carrying a baby brown hawk on his arm. Excited, Tia ran toward him, but [[Allium]] pulled the bird away and warned her to be careful so she would not frighten it.
+## Allium's Death
+It happened on a dark, stormy night a couple of years before the campaign. Allium took his bow and arrows and went toward the forest. Tia, at the window petting Pipin, saw his figure and a second one: a stag, silver from head to hoof, lit by the lightning like a statue made of Gleam. Allium's arrows bounced off it. His shortsword failed too. The stag caught him on its horns, threw him to the ground and crushed his chest. Tia ran out, her family behind her, and picked up his sword. The stag's shriek made her drop it and cover her ears. It ran back into the forest.
 
-This moment suggests that [[Pipin]] became an important companion in Tia’s life. The baby hawk may have grown alongside her, becoming a symbol of [[Allium]]’s trust, protection, and the bond between siblings. It also provides a potential emotional thread: [[Pipin]] may still be alive, may have changed since then, or may carry some connection to [[Allium]]’s fate.
+Allium did not wake. She cried over his chest. There was a funeral, and everyone in town came.
+
+Days later she took Allium's bow from beside the door and found herself in the forest, aiming it at a baby fawn, crying. The fawn was not Gleam-touched. Not yet. Pipin landed in a tree above her and she lowered the bow. She swore then to protect everything and everyone in Nightvale, and not to let anyone else die while she was watching.
+
+## Now
+Pipin has grown and is still her closest companion. The Gleam near Nightvale has grown so much she can see it from her roof. The town's chiefs have told people to stay away and are working on a way to block it from spreading. If you want to find Tia, she says, look in the trees.
+
+## Central conflict
+Tia's role is a promise made over her brother's body. She has to decide what protecting a town means when the thing that killed Allium is growing at its edge, whether she is still keeping that promise or only holding on to it, and what lies behind the distance between her and the twins.
+
+## Open questions
+- What happened between Tia and the twins, and why did they leave?
+- What is the growing pool, and can it be stopped?
+- Was the silver stag the only one?
+- Where is Nightvale's block on the pool, and does it work?

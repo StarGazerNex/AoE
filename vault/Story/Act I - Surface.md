@@ -9,15 +9,15 @@ origin: new
 
 ## Chapter 1: Four Falls
 Open each PC in their own place, using what their notes already give you.
-- **[[Luster]] and [[CIX]], [[Ardentia]]:** A stage lift fails at [[Calium Arena]]. [[Madeline Lomazin]] slips Luster a demo called [[The Hush Between]] and asks her to play it away from Roger. [[Jophie]] sends CIX with a message: *take her to Nightvale.*
-- **[[Titania]], Nightvale:** [[Pipin]] screams at the treeline. Something is humming in the forest.
+- **[[Luster]] and [[CIX]], [[Ardentia]]:** A stage lift fails at [[Calium Arena]]. [[Madeline Lomazin]] slips Luster a demo called [[The Hush Between]] and asks her to play it away from Roger. [[Jophie]] sends CIX with a message: *take her to [[Nightvale]].*
+- **[[Titania]], [[Nightvale]]:** [[Pipin]] screams at the treeline. Something is humming in the forest.
 - **[[Harald]] and [[Mog'el]], the sky-barge:** The barge is hit by a Timoris cutter and comes down in the [[The Evenwood|Evenwood]].
 - **[[Nymestria]]:** Flying hurt over the sea. She passes out and falls like a comet into a tree.
 
 ## Chapter 2: The Night the Well Opened
-- The barge, Nymestria and a silver well open on the same night near Nightvale. Tia and Pipin find them.
+- The barge, Nymestria and a silver well open on the same night near [[Nightvale]]. Tia and Pipin find them.
 - [[Dwight]] treats the wounded and asks for nothing. The Coven's skiffs circle.
-- **Reveal 1:** The well is brand new. Nightvale has never had one.
+- **Reveal 1:** The well is brand new. [[Nightvale]] has never had one.
 - Other captured [[Ashen-Paw]] were aboard the barge and are now loose in the forest. Some are taken back by Timoris. Mog'el knows he owes them.
 
 ## Chapter 3: Sweets and Lifts (parallel, Ardentia)
@@ -27,7 +27,7 @@ Can be played before, during or after Chapter 2.
 - Jophie's messages show CIX is more than a guardian. He leaves with Luster by carriage.
 
 ## Chapter 4: Three Offers
-Nightvale must decide what to do with the Seep, and three groups arrive.
+[[Nightvale]] must decide what to do with the Seep, and three groups arrive.
 - **[[Evenfall]]'s Wardens** offer a blessing, trade, and protection.
 - **[[Saltreach]]'s salt-wardens** offer seals and warn the town of a plague.
 - **The Coven**: [[Visindi]] (Timoris) and [[Sunna]] (Somniorum) arrive to bring Harald home. They are his oldest friends.

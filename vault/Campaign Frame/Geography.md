@@ -12,7 +12,7 @@ A relative map, not a measured one. Everything here is *(suggested)* and can mov
 | [[The Hollow]] / [[Deepsteel]] | The centre of the continent to the West. North of Ardentia                 | Horseless carriage lines radiate out                             |
 | [[Ardentia]]                   | West                                                                       | One  day from Deepsteel by carriage                              |
 | [[Nightvale]]                  | South, on the edge of the [[The Evenwood\|Evenwood]]                       | Four days from Deepsteel by carriage; the line ends here         |
-| [[Evenfall]]                   | Deep in the Evenwood                                                       | Eight days on foot from Nightvale                                |
+| [[Evenfall]]                   | Deep in the Evenwood                                                       | Eight days on foot from [[Nightvale]]                                |
 | [[Hesperion]]                  | Under the western sea-cliffs                                               | Hidden. The exit is the Gull's Throat cliff.                     |
 | [[Brinewake]]                  | West coast, at the foot of the Gull's Throat                               | By sea, or the [[The Undertow\|Undertow]]                        |
 | [[Saltreach]]                  | Northern salt flats                                                        | Caravan                                                          |
@@ -22,7 +22,7 @@ A relative map, not a measured one. Everything here is *(suggested)* and can mov
 
 ## Rivers and Roads
 - **The Ashwater** runs from the central highlands to the Smoked Plains. Its upper reaches are the sky-barge route.
-- **The Carriage Lines** are [[Deepsteel]]'s newest export. They reach Ardentia and Nightvale, which is why a silver horseless carriage could strike someone in front of Tia's family years ago.
+- **The Carriage Lines** are [[Deepsteel]]'s newest export. They reach Ardentia and [[Nightvale]], which is why a silver horseless carriage could strike someone in front of Tia's family years ago.
 
 ## Calendar
 - **AG** means "after Gleam", counted from the first recorded pool. The campaign opens in roughly **161 AG** *(suggested)*.
